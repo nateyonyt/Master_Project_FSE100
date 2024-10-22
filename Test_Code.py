@@ -1,4 +1,3 @@
-Code we intend to test will be put into here
 #imports:
 #!/usr/bin/env python3
 import RPi.GPIO as GPIO
